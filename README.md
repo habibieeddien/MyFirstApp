@@ -5,9 +5,8 @@ It has 2 activity (MyActivity and DisplayMessageActivity) with getIntent() - Str
 
 Added : Clear Button
 
-#Screenshot
-<img src="Screenshot_MyActivity.png" width="150">
-<img src="Screenshot_DisplayMessageActivity.png" width="150">
+![screenshot MyActivity](Screenshot_MyActivity.png)
+![screenshot DisplayMessageActivity](Screenshot_DisplayMessageActivity.png)
 
 Task (March 31, 2016) - IF5152 Mobile App Development
 
@@ -16,4 +15,4 @@ Task (March 31, 2016) - IF5152 Mobile App Development
 
 Magister Informatics
 
-Intitute of Technology Bandung
+Institute of Technology Bandung
